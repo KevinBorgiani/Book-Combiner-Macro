@@ -28,4 +28,4 @@
 
 ## 🚨 Observações:
 
-- É importante lembrar que o inventário precisa estar organizado da mesma maneira que na print `inventário.png`.
+- É importante lembrar que o inventário precisa estar organizado da mesma maneira que na print `Inventário.png`.
