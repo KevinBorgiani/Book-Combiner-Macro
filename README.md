@@ -29,4 +29,4 @@
 ## 🚨 Observações:
 
 - É importante lembrar que o inventário precisa estar organizado da mesma maneira que na print `Inventário.png`.
-- Caso queira ver um vídeo do macro funcionando, só baixar o vídeo com o nome `Book Combiner Macro`, disponibilizado aqui mesmo.
+- Caso queira ver um vídeo do macro funcionando, só baixar o vídeo com o nome `Book Combiner Macro.mp4`, disponibilizado aqui mesmo.
